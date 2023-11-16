@@ -8,9 +8,8 @@ Tags supported:
 - `[hr]` -> `<hr />`
 
 Two modes (will auto-detect which is needed):
-
-Detects paragraphs by double-linefeed (double-spaced paragraphs), single linefeeds are replaced with `<br />`
-Detects paragraphs by single-linefeed (single-spaced paragraphs).
+- Detects paragraphs by double-linefeed (double-spaced paragraphs), single linefeeds are replaced with `<br />`
+- Detects paragraphs by single-linefeed (single-spaced paragraphs).
 
 In both modes a single, blank line will be removed.
 
